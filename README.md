@@ -139,7 +139,7 @@ Proof of Exploitation:
 Figure 1: SQL error after single quote injection.
 
 
-![Proof of Successful Exploitation]()
+![Proof of Successful Exploitation](https://github.com/abhiram507/PortSwigger-SQLI-Lab-6/blob/34de04c6ce5d2e011840e4605b203b21925b0446/Portswigger%20Lab%206%20success.jpg)
 
 Figure 2: PortSwigger "Congratulations, you solved the lab!"
 

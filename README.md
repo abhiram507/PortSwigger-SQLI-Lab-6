@@ -134,7 +134,7 @@ Content-Length: 4413
 Proof of Exploitation:
 
 
-![Proof of SQL Injection Error]()
+![Proof of SQL Injection Error](https://github.com/abhiram507/PortSwigger-SQLI-Lab-6/blob/724e9d07dd7d2e0de30812ac55d59043c5ca9a43/Portswigger%20Lab%206%20error.jpg)
 
 Figure 1: SQL error after single quote injection.
 
